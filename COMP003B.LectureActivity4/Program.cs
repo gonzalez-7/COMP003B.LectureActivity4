@@ -1,3 +1,8 @@
+/*
+ * Author: Antonio Gonzalez
+ *
+ */
+
 namespace COMP003B.LectureActivity4
 {
     public class Program
